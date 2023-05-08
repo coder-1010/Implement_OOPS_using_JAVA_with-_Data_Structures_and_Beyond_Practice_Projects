@@ -1,5 +1,3 @@
-package virtualClass;
-
 import java.util.Scanner;
 
 public class ArithmeticCalculator {
